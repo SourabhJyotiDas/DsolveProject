@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DsolveProject/static/css/main.427d8620.css",
+    "main.js": "/DsolveProject/static/js/main.bed405e5.js",
+    "static/media/Crystal1.jpeg": "/DsolveProject/static/media/Crystal1.d3a9b9494f104041b865.jpeg",
+    "index.html": "/DsolveProject/index.html",
+    "main.427d8620.css.map": "/DsolveProject/static/css/main.427d8620.css.map",
+    "main.bed405e5.js.map": "/DsolveProject/static/js/main.bed405e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427d8620.css",
+    "static/js/main.bed405e5.js"
+  ]
+}
